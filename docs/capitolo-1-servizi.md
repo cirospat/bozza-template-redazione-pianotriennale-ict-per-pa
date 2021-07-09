@@ -9,8 +9,8 @@
 ---|--------|----------|-----|------
 _Da settembre 2020_|si/no|si/no| ... €||
 
-!!! Note
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+!!! Note "data entry CAP1.PA.LA01"
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
 
 ---
 
@@ -23,8 +23,8 @@ _Da settembre 2020_|si/no|si/no| ... €||
 ---|--------|----------|-----|------
 _Da settembre 2020_|si/no|si/no| ... €||
 
-!!! Note
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+!!! Note "data entry CAP1.PA.LA02"
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
 
 ---
 
