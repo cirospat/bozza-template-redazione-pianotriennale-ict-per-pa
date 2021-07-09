@@ -46,7 +46,7 @@ _Da ottobre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA03"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -63,7 +63,7 @@ _Entro ottobre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA04"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -80,7 +80,7 @@ _Da dicembre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA05"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -97,7 +97,7 @@ _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA06"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -114,7 +114,7 @@ _Entro aprile 2021_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA07"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -130,7 +130,7 @@ _Da gennaio 2022_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA08"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -146,7 +146,7 @@ _Da settembre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA09"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -164,7 +164,7 @@ _Da settembre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA10"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -182,7 +182,7 @@ _Entro settembre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA11"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -201,7 +201,7 @@ _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA12"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -219,7 +219,7 @@ _Entro marzo 2021_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA13"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -237,7 +237,7 @@ _Da aprile 2021_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA14"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
     
 ---
 
@@ -255,7 +255,7 @@ _Entro giugno 2021_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA15"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
 
 ---
 
@@ -272,6 +272,6 @@ _Entro marzo 2022_|si/no|si/no|si/no|... €||
 <code>data entry</code>
 
 !!! Note "Note CAP1.PA.LA16"
-    **data entry** in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
+    in questo campo è possibile inserire commenti da parte della PA se ritenuti necessari alla comprensione dell'azione. Possono essere inserite brevi informazioni su eventuali criticità riscontrate in fase di attuazione.
 
 ---
