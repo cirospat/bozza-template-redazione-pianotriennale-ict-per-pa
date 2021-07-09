@@ -4,7 +4,8 @@ Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https:/
 
 ---
 
-**Indice**
+<p><span style="background-color: #e86514; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice</span> </p>
+
 
 ## STRATEGIA
 
