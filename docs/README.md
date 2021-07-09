@@ -2,9 +2,9 @@
 
 Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022)
 
+---
 
-
-# Indice
+**Indice**
 
 ## STRATEGIA
 
