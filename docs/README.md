@@ -8,7 +8,7 @@ Il presente documento intende tracciare una metodologia per la redazione del Pia
 
 L'applicativo informatico da realizzare deve assolvere ai seguenti scopi:
     
-   1. **permettere (tramite login  e funzione di <code>**data entry**</code>) la compilazione di campi prestabiliti e generare un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**;
+   1. **permettere (tramite login  e funzione di <code>data entry</code>) la compilazione di campi prestabiliti e generare un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**;
    2. **permettere alle PA un continuo e costante aggiornamento dei dati sul livello di attuazione delle singole azioni (LA) del Piano. Ogni PA può aggiornare il Piano con qualsiasi cadenza temporale**;
    3. **permettere all'AGID, e a tutti online, la visione e analisi comparativa (in adeguati cruscotti di avanzamento digitale) dei risultati raggiunti dalle PA in termini di livello di attuazione delle singole azioni (LA) previste dai capitoli del Piano nazionale**;
 
