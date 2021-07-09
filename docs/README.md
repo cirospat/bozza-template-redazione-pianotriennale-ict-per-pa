@@ -2,6 +2,17 @@
 
 Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022)
 
+## Nota metodologica
+
+Il presente documento intende tracciare una metodologia per la redazione del Piano triennale per l'informatica delle PA. La finalità principale è indivisuare i campi di <code>**data entry**</code> che un adeguato applicativo informatico deve poter permettere ai referenti delle PA che devono redigere il Piano. 
+
+L'applicativo informatico da realizzare deve assolvere ai seguenti scopi:
+    
+   1. **permettere (tramite login  e funzione di <code>**data entry**</code>) la compilazione di campi prestabiliti e generare un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**;
+   2. **permettere alle PA un continuo e costante aggiornamento dei dati sul livello di attuazione delle singole azioni (LA) del Piano. Ogni PA può aggiornare il Piano con qualsiasi cadenza temporale**;
+   3. **permettere all'AGID, e a tutti online, la visione e analisi comparativa (in adeguati cruscotti di avanzamento digitale) dei risultati raggiunti dalle PA in termini di livello di attuazione delle singole azioni (LA) previste dai capitoli del Piano nazionale**;
+
+
 ---
 
 <p><span style="background-color: #e86514; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice</span> </p>
@@ -43,3 +54,6 @@ Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https:/
 - CAP2.PA.LA11 - Le PA partecipano a interventi di formazione e sensibilizzazione sulle politiche open data 
 - CAP2.PA.LA12 - Le PA partecipano, insieme ad AGID e al Dipartimento per la Trasformazione Digitale, alla definizione di metodologie per monitorare il riutilizzo dei dati aperti sulla base di quanto previsto nella norma di recepimento della Direttiva sui dati aperti ((UE) 2019/1024)
 - CAP2.PA.LA13 - Le PA pilota avviano progetti di implementazione della Strategia nazionale dati 
+
+
+## CAPITOLO 3 - PIATTAFORME
