@@ -5,7 +5,7 @@
 
 <code>data entry</code>
 
-**tempo stabilito** (campo fisso)|**realizzato** (menù tendina)|**in progress** (menù tendina)|**da realizzare** (menù tendina)|**costo (se dato disponibile)** (solo numeri)| **cap. bilancio (se dato disponibile)** (solo numeri)
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da settembre 2020_|si/no|si/no|si/no|... €||
 
