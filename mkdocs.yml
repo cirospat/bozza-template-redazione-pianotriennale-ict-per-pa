@@ -1,12 +1,12 @@
 ## Project information
-site_name: Regolamento unico dei controlli interni del comune di Palermo
-site_url: https://rtd-comemipiace.readthedocs.io/it/latest/
-site_description: Regolamento unico dei controlli interni del comune di Palermo
-site_author: comune di Palermo
+site_name: bozza-template-redazione-pianotriennale-ict-per-pa
+site_url: https://bozza-template-redazione-pianotriennale-ict-per-pa.readthedocs.io/it/latest/
+site_description: bozza-template-redazione-pianotriennale-ict-per-pa
+site_author: Ciro Spataro Comune di Palermo
 
 ## Repository
-repo_url: https://github.com/cirospat/regolamento-controlli-interni-comunepalermo
-repo_name: regolamento-controlli-interni-comunepalermo
+repo_url: https://github.com/cirospat/bozza-template-redazione-pianotriennale-ict-per-pa
+repo_name: bozza-template-redazione-pianotriennale-ict-per-pa
 edit_uri: edit/master/docs/
 
 theme:
@@ -35,17 +35,15 @@ theme:
   
 nav:
   - Home: README.md
-  - CAPO I - disposizioni generali: capo1.md
-  - CAPO II - il controllo interno di regolarità amministrayiva e contabile: capo2.md
-  - CAPO III - il controllo strategico: capo3.md
-  - CAPO IV - il controllo di gestione: capo4.md
-  - CAPO V - il controllo sulla qualità dei servizi erogati: capo5.md
-  - CAPO VI - il controllo sulle società partecipate non quotate: capo6.md
-  - CAPO VII - il controllo sugli equilibri finanziari: capo7.md
-  - CAPO VIII - risultanze dai controlli e disposizioni finali: capo8.md
-  - Privacy: 
-    - Privacy: privacy.md
-
+  - Strategia: strategia.md
+  - Cap. 1 - Servizi: capitolo-1-servizi.md
+  - Cap. 2 - Dati: capitolo-2-dati.md
+  - Cap. 3 - Piattaforme: capitolo-3-piattaforme.md
+  - Cap. 4 - Interoperabilità: capitolo-4-interoperabilita.md
+  - Cap. 5 - Sicurezza informatica: capitolo-5-sicurezza-informatica.md
+  - Cap. 6 - Struemnti e modelli per l'innovazione: capitolo-6-strumenti-modelli-innovazione.md
+  - Cap. 7 - Governare la trasformazione digitale: capitolo-7-governare-trasformazione-digitale.md
+  
 
 plugins:
 - search
@@ -82,11 +80,11 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ComunePalermo
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/cirospat/regolamento-controlli-interni-comunepalermo
+      link: https://github.com/cirospat/bozza-template-redazione-pianotriennale-ict-per-pa
     - icon: fontawesome/solid/envelope
       link: mailto:protocollo@cert.comune.palermo.it
     - icon: fontawesome/solid/book
-      link: https://readthedocs.org/projects/regolamento-controlli-interni-comunepalermo/
+      link: https://readthedocs.org/projects/bozza-template-redazione-pianotriennale-ict-per-pa/
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
