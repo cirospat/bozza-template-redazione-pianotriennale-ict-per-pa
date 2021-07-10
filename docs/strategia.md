@@ -11,7 +11,7 @@ Non è necessario che il singolo ente pubblico descriva la strategia. Il capitol
 
 <p><span style="background-color: #e86514; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Non è previsto data entry da parte della PA per questo capitolo del Piano triennale per l'informatica</span> </p>
 
-**Testo del capitolo "Strategia**
+**Testo del capitolo "Strategia"**
 
 Gli obiettivi del Piano sono:
 
