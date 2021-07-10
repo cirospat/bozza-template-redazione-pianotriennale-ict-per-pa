@@ -5,6 +5,7 @@ Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https:/
 <p></p>
 
 ## NOTA METODOLOGICA
+[a cura di Ciro Spataro]
 
 Il presente documento intende tracciare una metodologia agevole per la redazione del Piano triennale per l'informatica delle PA. 
 
