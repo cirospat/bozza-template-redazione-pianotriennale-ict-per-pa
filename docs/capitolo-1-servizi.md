@@ -21,7 +21,7 @@ _Da settembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da settembre 2020_|si/no|si/no|si/no|... €||
 
@@ -38,7 +38,7 @@ _Da settembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da ottobre 2020_|si/no|si/no|si/no|... €||
 
@@ -55,7 +55,7 @@ _Da ottobre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro ottobre 2020_|si/no|si/no|si/no|... €||
 
@@ -72,7 +72,7 @@ _Entro ottobre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da dicembre 2020_|si/no|si/no|si/no|... €||
 
@@ -89,7 +89,7 @@ _Da dicembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 
@@ -105,8 +105,7 @@ _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 ## CAP1.PA.LA07 - Le PA che sono titolari di software sviluppato per loro conto, eseguono il rilascio in open source in ottemperanza dell’obbligo previsto dall’art. 69 CAD e secondo le procedure indicate nelle Linee guida attuative su acquisizione e riuso del software
 
 <code>data entry</code>
-
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro aprile 2021_|si/no|si/no|si/no|... €||
 
@@ -122,7 +121,7 @@ _Entro aprile 2021_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da gennaio 2022_|si/no|si/no|si/no|... €||
 
@@ -138,7 +137,7 @@ _Da gennaio 2022_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da settembre 2020_|si/no|si/no|si/no|... €||
 
@@ -156,7 +155,7 @@ _Da settembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da settembre 2020_|si/no|si/no|si/no|... €||
 
@@ -174,7 +173,7 @@ _Da settembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro settembre 2020_|si/no|si/no|si/no|... €||
 
@@ -193,7 +192,7 @@ _Entro settembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 
@@ -211,7 +210,7 @@ _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro marzo 2021_|si/no|si/no|si/no|... €||
 
@@ -229,7 +228,7 @@ _Entro marzo 2021_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Da aprile 2021_|si/no|si/no|si/no|... €||
 
@@ -247,7 +246,7 @@ _Da aprile 2021_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro giugno 2021_|si/no|si/no|si/no|... €||
 
@@ -264,7 +263,7 @@ _Entro giugno 2021_|si/no|si/no|si/no|... €||
 
 <code>data entry</code>
 
-**tempo stabilito**|**realizzato**|**in progress**|**da realizzare**|**costo (se dato disponibile)**| **cap. bilancio (se dato disponibile)**
+**tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro marzo 2022_|si/no|si/no|si/no|... €||
 
