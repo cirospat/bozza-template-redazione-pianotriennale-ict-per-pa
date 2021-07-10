@@ -35,6 +35,7 @@ theme:
   
 nav:
   - Home: README.md
+  - Identificazione PA: identificazione-PA.md
   - Strategia: strategia.md
   - Cap. 1 - Servizi: capitolo-1-servizi.md
   - Cap. 2 - Dati: capitolo-2-dati.md
