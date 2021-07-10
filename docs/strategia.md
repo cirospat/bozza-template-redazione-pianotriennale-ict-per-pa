@@ -14,8 +14,11 @@ Non è necessario che il singolo ente pubblico descriva la strategia. Il capitol
 **Testo del capitolo "Strategia**
 
 Gli obiettivi del Piano sono:
+
 - Favorire lo sviluppo di una società digitale, dove i servizi mettono al centro i cittadini e le imprese, attraverso la digitalizzazione della pubblica amministrazione che costituisce il motore di sviluppo per tutto il Paese. 
+
 - Promuovere lo sviluppo sostenibile, etico ed inclusivo, attraverso l’innovazione e la digitalizzazione al servizio delle persone, delle comunità e dei territori, nel rispetto della sostenibilità ambientale. 
+
 - Contribuire alla diffusione delle nuove tecnologie digitali nel tessuto produttivo italiano, incentivando la standardizzazione, l’innovazione e la sperimentazione nell’ambito dei servizi pubblici.
 
 Il Piano Triennale per l’informatica della Pubblica Amministrazione è uno strumento essenziale per promuovere la trasformazione digitale del Paese e, in particolare quella della Pubblica Amministrazione italiana. Tale trasformazione deve avvenire nel contesto del mercato unico europeo di beni e servizi digitali, secondo una strategia che in tutta la UE si propone di migliorare l’accesso online ai beni e servizi per i consumatori e le imprese e creare le condizioni favorevoli affinché le reti e i servizi digitali possano svilupparsi per massimizzare il potenziale di crescita dell’economia digitale europea.
