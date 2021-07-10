@@ -2,7 +2,9 @@
 
 Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022)
 
-## Nota metodologica
+<p></p>
+
+## NOTA METODOLOGICA
 
 Il presente documento intende tracciare una metodologia per la redazione del Piano triennale per l'informatica delle PA. 
 
