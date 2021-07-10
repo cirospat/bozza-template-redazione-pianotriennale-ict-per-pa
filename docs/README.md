@@ -6,18 +6,27 @@ Riferimento: [**Piano triennale per l'informatica 2020-2022 dell'AGID**](https:/
 
 ## NOTA METODOLOGICA
 
-Il presente documento intende tracciare una metodologia per la redazione del Piano triennale per l'informatica delle PA. 
+Il presente documento intende tracciare una metodologia agevole per la redazione del Piano triennale per l'informatica delle PA. 
 
-La finalità principale è individuare i campi di <code>**data entry**</code> che un adeguato applicativo informatico deve poter permettere ai referenti delle PA che devono redigere il Piano per la necessaria approvazione da parte dell'organo preposto (Giunta comunale/regionale, ecc.). 
+La finalità principale è individuare i campi e i valori di <code>**data entry**</code> che un adeguato applicativo informatico deve poter permettere ai referenti delle PA che devono redigere il Piano per la necessaria approvazione da parte dell'organo preposto (Giunta comunale/regionale, ecc.). 
 
-L'applicativo informatico da realizzare deve avere i seguenti scopi:
+L'applicativo informatico da realizzare deve poter:
     
    1. **permettere (tramite login  e funzione di <code>data entry</code>) la compilazione di campi prestabiliti e generare un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**;
    2. **permettere alle PA un continuo e costante aggiornamento dei dati sul livello di attuazione delle singole azioni (LA) del Piano. Ogni PA può aggiornare il Piano con qualsiasi cadenza temporale**;
    3. **permettere all'AGID, e a tutti online, la visione e analisi comparativa (in adeguati cruscotti di avanzamento digitale) dei risultati raggiunti dalle PA in termini di livello di attuazione delle singole azioni (LA) previste dai capitoli del Piano nazionale**;
-   4. **essere interoperabile con la piattaforma IPA Indice Pubbliche Amministrazioni [https://indicepa.gov.it/ipa-portale/](https://indicepa.gov.it/ipa-portale/)**;
-   5. **essere interoperabile con la piattaforma avanzamento digitale [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it)**.
 
+L'applicativo informatico deve essere interoperabile:
+
+   1. **con la piattaforma IPA Indice Pubbliche Amministrazioni [https://indicepa.gov.it/ipa-portale/](https://indicepa.gov.it/ipa-portale/)**; 
+   2. **con la piattaforma avanzamento digitale [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it)**.
+
+
+Questo documento si fonda sull'importanza del monitoraggio delle cosiddette **LA** Local Action, cioè le azioni previste nei capitoli tematici del Piano nazionale. Infatti il Piano nazionale illustra la sezione _Cosa devono fare le PA_ che descrive la roadmap delle attività a carico delle diverse PA. Per ogni Azione è prevista la tempistica (da mese/anno oppure entro mese/anno). La tempistica è un dato fissato che non deve essere inserito dalla singola PA nell'applicativo. 
+
+La somma delle Azioni realizzate indica il livello di attuazione della transizione digitale della singola PA. Il livello di attuazione della transizione digitale della singola PA deve poter essere visualizzabile nel cruscotto dell'avanzamento digitale AGID [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it), permetendo analisi comparative tra i liveli di avanzamento di diverse PA. Le analisi comparative disponibili pubblicamente permettono fenomeni di sensibilizzazione per l'accellerazione della transizione digitale delle PA meno attive in questo ambito.
+
+<p></p>
 
 ---
 
