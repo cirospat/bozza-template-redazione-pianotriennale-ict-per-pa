@@ -13,8 +13,8 @@ L'applicativo informatico da realizzare deve avere i seguenti scopi:
    1. **permettere (tramite login  e funzione di <code>data entry</code>) la compilazione di campi prestabiliti e generare un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**;
    2. **permettere alle PA un continuo e costante aggiornamento dei dati sul livello di attuazione delle singole azioni (LA) del Piano. Ogni PA può aggiornare il Piano con qualsiasi cadenza temporale**;
    3. **permettere all'AGID, e a tutti online, la visione e analisi comparativa (in adeguati cruscotti di avanzamento digitale) dei risultati raggiunti dalle PA in termini di livello di attuazione delle singole azioni (LA) previste dai capitoli del Piano nazionale**;
-   4. **essere interoperabile con la piattaforma IPA Indice Pubbliche Amministrazioni https://indicepa.gov.it/ipa-portale/**;
-   5. **essere interoperabile con la piattaforma avanzamento digitale https://avanzamentodigitale.italia.it/it**
+   4. **essere interoperabile con la piattaforma IPA Indice Pubbliche Amministrazioni [https://indicepa.gov.it/ipa-portale/](https://indicepa.gov.it/ipa-portale/)**;
+   5. **essere interoperabile con la piattaforma avanzamento digitale [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it)**.
 
 
 ---
