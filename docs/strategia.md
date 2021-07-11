@@ -13,6 +13,8 @@ Non è necessario che il singolo ente pubblico descriva la strategia. Il capitol
 
 **Testo del capitolo "Strategia"**
 
+## Obiettivi del Piano
+
 Gli obiettivi del Piano sono:
 
 - Favorire lo sviluppo di una società digitale, dove i servizi mettono al centro i cittadini e le imprese, attraverso la digitalizzazione della pubblica amministrazione che costituisce il motore di sviluppo per tutto il Paese. 
@@ -29,7 +31,10 @@ La rappresentazione semplificata del **Modello strategico** consente di descrive
 
 _Modello strategico di evoluzione del sistema informativo della Pubblica Amministrazione_
 
-I Prinipi guida del Piano sono:
+
+## Principi guida del Piano
+
+I Principi guida del Piano sono:
 
 - **Digital & mobile first (digitale e mobile come prima opzione)**: le pubbliche amministrazioni devono realizzare servizi primariamente digitali;
 digital identity only (accesso esclusivo mediante identità digitale): le PA devono adottare in via esclusiva sistemi di identità digitale definiti dalla normativa assicurando almeno l’accesso tramite SPID; 
