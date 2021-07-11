@@ -105,6 +105,7 @@ _Entro dicembre 2020_|si/no|si/no|si/no|... €||
 ## CAP1.PA.LA07 - Le PA che sono titolari di software sviluppato per loro conto, eseguono il rilascio in open source in ottemperanza dell’obbligo previsto dall’art. 69 CAD e secondo le procedure indicate nelle Linee guida attuative su acquisizione e riuso del software
 
 <code>data entry</code>
+
 **tempo stabilito** [campo fisso]|**realizzato** [menù tendina]|**in progress** [menù tendina]|**da realizzare** [menù tendina]|**costo (se dato disponibile)** [solo numeri]| **cap. bilancio (se dato disponibile)** [solo numeri]
 ---|--------|----------|-----|------|-------
 _Entro aprile 2021_|si/no|si/no|si/no|... €||
