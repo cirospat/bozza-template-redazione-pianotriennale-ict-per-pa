@@ -13,8 +13,8 @@ La finalità principale è individuare i campi e i valori di <code>**data entry*
 
 L'applicativo informatico da realizzare deve poter:
     
-   1. **permettere (tramite login  e funzione di <code>data entry</code>) la compilazione di campi prestabiliti e generare un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**;
-   2. **permettere alle PA un continuo e costante aggiornamento dei dati sul livello di attuazione delle singole azioni (LA) del Piano. Ogni PA può aggiornare il Piano con qualsiasi cadenza temporale**;
+   1. **permettere (tramite login  e funzione di <code>data entry</code>) la compilazione di campi prestabiliti e generare, come funzione disponibile, un documento in formato aperto che la PA può sottoporre agli organi amministrativi competenti per la relativa firma digitale e approvazione**. Ogni PA con cadenza annuale genera (dall'applicativo) un export in formato aperto  del proprio Piano e lo sottopone all'aprovazione del proprio organo competente, al fine di avere annualmente un Piano sempre aggiornato in termini di azioni realizzate e da realizzare.
+   2. **permettere alle PA un continuo e costante aggiornamento dei dati sul livello di attuazione delle singole azioni (LA) del Piano. Ogni PA può aggiornare il Piano con qualsiasi cadenza temporale (mensile, trimestrale, semestrale)**;
    3. **permettere all'AGID, e a tutti online, la visione e analisi comparativa (in adeguati cruscotti di avanzamento digitale) dei risultati raggiunti dalle PA in termini di livello di attuazione delle singole azioni (LA) previste dai capitoli del Piano nazionale**;
 
 L'applicativo informatico deve essere interoperabile:
@@ -23,7 +23,9 @@ L'applicativo informatico deve essere interoperabile:
    2. **con la piattaforma avanzamento digitale [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it)**.
 
 
-Questo documento si fonda sull'importanza del monitoraggio delle cosiddette **LA** LINEE DI AZIONE, cioè le azioni previste nei capitoli tematici del Piano nazionale. Infatti il Piano nazionale illustra la sezione _Cosa devono fare le PA_ che descrive la roadmap delle attività a carico delle diverse PA. Per ogni Azione è prevista la **tempistica** (da mese/anno oppure entro mese/anno). La tempistica è un dato già fissato dal Piano che non deve essere inserito dalla singola PA nell'applicativo. 
+Questo documento si fonda sull'importanza del monitoraggio delle cosiddette **LA** LINEE DI AZIONE, cioè le azioni previste nei capitoli tematici del Piano nazionale da realizzarsi ogni anno per i 3 anni del Piano. Infatti il Piano nazionale illustra la sezione _Cosa devono fare le PA_ che descrive la roadmap delle attività a carico delle diverse PA. 
+
+Per ogni Azione è prevista la **tempistica** ("da mese/anno" oppure "entro mese/anno"). La tempistica è un dato già fissato dal Piano che non deve essere inserito dalla singola PA nell'applicativo. La tempistica è un dato importante per il riferimento ai costi sostenuti dalla PA: l'attuazione di ogni Azione è riferita ad un anno ed ad un costo sostenuto, che se disponibile come dato grezzo e non aggregato ad altri costi, può essere censito nell'applicativo. Censire i costi sostenuti per realizzare per ogni azioni permette dii effettuare analisi comparative tra diversi enti per la stessa azione prevista dal Piano.
 
 La somma delle Azioni realizzate indica il livello di attuazione della transizione digitale della singola PA. Il livello di attuazione della transizione digitale della singola PA deve poter essere visualizzabile nel cruscotto dell'avanzamento digitale AGID [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it), permetendo analisi comparative tra i liveli di avanzamento di diverse PA. Le analisi comparative disponibili pubblicamente permettono fenomeni di sensibilizzazione per l'accellerazione della transizione digitale delle PA meno attive in questo ambito.
 
