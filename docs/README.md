@@ -23,7 +23,7 @@ L'applicativo informatico deve essere interoperabile:
    2. **con la piattaforma avanzamento digitale [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it)**.
 
 
-Questo documento si fonda sull'importanza del monitoraggio delle cosiddette **LA** Local Action, cioè le azioni previste nei capitoli tematici del Piano nazionale. Infatti il Piano nazionale illustra la sezione _Cosa devono fare le PA_ che descrive la roadmap delle attività a carico delle diverse PA. Per ogni Azione è prevista la tempistica (da mese/anno oppure entro mese/anno). La tempistica è un dato fissato che non deve essere inserito dalla singola PA nell'applicativo. 
+Questo documento si fonda sull'importanza del monitoraggio delle cosiddette **LA** LINEE DI AZIONE, cioè le azioni previste nei capitoli tematici del Piano nazionale. Infatti il Piano nazionale illustra la sezione _Cosa devono fare le PA_ che descrive la roadmap delle attività a carico delle diverse PA. Per ogni Azione è prevista la **tempistica** (da mese/anno oppure entro mese/anno). La tempistica è un dato già fissato dal Piano che non deve essere inserito dalla singola PA nell'applicativo. 
 
 La somma delle Azioni realizzate indica il livello di attuazione della transizione digitale della singola PA. Il livello di attuazione della transizione digitale della singola PA deve poter essere visualizzabile nel cruscotto dell'avanzamento digitale AGID [https://avanzamentodigitale.italia.it/it](https://avanzamentodigitale.italia.it/it), permetendo analisi comparative tra i liveli di avanzamento di diverse PA. Le analisi comparative disponibili pubblicamente permettono fenomeni di sensibilizzazione per l'accellerazione della transizione digitale delle PA meno attive in questo ambito.
 
