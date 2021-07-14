@@ -1,5 +1,19 @@
 # Capitolo 1 - Servizi
 
+### Nota inroduttiva
+
+Per monitorare l'avanzamento di ogni LA è necessario conoscere i seguenti dati/informazioni:
+- data prefissata per realizzare l'azione **`campo fissato dall'AGID e non modificabile con data entry dalla PA`**
+- azione già realizzata: possibili risposte "SI/NO" (scela da menù) **`data entry`**
+- azione in progress: possibili risposte "SI/NO" (scela da menù) **`data entry`**
+- azione da realizzare in futuro: possibili risposte "SI/NO" (scela da menù) **`data entry`**
+- costo sostenuto per realizzare l'azione: possibili risposte "numeri" ma dato da inserire solo se disponibile nella PA **`data entry`**
+- capitolo di bilancio utilizzato per realizzare economicamente l'azione: possibili risposte "numeri" ma dato da inserire solo se disponibile nella PA **`data entry`**
+
+Per ogni PA oltre alle su indicate informazioni è possibile editare testo in un apposito campo, così da fornire dettagli concernenti la realizzazione (o mancata realizzazione) dell'azione. Possibili risposte "testo e numeri" **`data entry`**
+
+---
+
 
 ## CAP1.PA.LA01 - Le PA finalizzano l’adesione a Web Analytics Italia per migliorare il processo evolutivo dei propri servizi online
 
