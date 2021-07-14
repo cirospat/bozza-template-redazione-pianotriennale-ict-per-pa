@@ -1,8 +1,9 @@
 # Capitolo 1 - Servizi
 
-### Nota inroduttiva
+### Nota introduttiva
 
 Per monitorare l'avanzamento di ogni LA è necessario conoscere i seguenti dati/informazioni:
+
 - data prefissata per realizzare l'azione **`campo fissato dall'AGID e non modificabile con data entry dalla PA`**
 - azione già realizzata: possibili risposte "SI/NO" (scela da menù) **`data entry`**
 - azione in progress: possibili risposte "SI/NO" (scela da menù) **`data entry`**
